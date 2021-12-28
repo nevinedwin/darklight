@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/darklight/static/css/main.fe25fc6f.css",
+    "main.js": "/darklight/static/js/main.be2ba116.js",
+    "index.html": "/darklight/index.html",
+    "main.fe25fc6f.css.map": "/darklight/static/css/main.fe25fc6f.css.map",
+    "main.be2ba116.js.map": "/darklight/static/js/main.be2ba116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe25fc6f.css",
+    "static/js/main.be2ba116.js"
+  ]
+}
