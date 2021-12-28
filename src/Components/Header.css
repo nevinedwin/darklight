@@ -17,7 +17,7 @@
 }
 .logo-part{
     display: flex;
-    margin-left: 30px;
+    margin-left: 10px;
 
 }
 
@@ -33,7 +33,7 @@
 .toggle-cont{
     display: flex;
     align-items: center;
-    margin-right: 50px;
+    margin-right: 20px;
 }
 .light{
     color: #464257;

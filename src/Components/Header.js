@@ -6,7 +6,7 @@ function Header(props) {
     return (
         <div className={`${props.dark && 'nav-cont-d'} nav-cont`}>
             <div className='logo-part'>
-                <img src="../Images/logo.png" alt="" className='logo' />
+                <img src="https://spng.subpng.com/20180604/iqs/kisspng-react-javascript-angularjs-ionic-atom-5b154be64e7965.3537065815281223423214.jpg" alt="" className='logo' />
                 <h2 className='title'>ReactFacts</h2>
             </div>
             <div onClick={props.click} className='toggle-cont'>
